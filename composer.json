@@ -1,5 +1,5 @@
 {
-    "name": "anilGupta/akamai",
+    "name": "anil-gupta/akamai",
     "description": "this is akamai library to generate edge token",
     "type": "akamai library",
     "autoload": {
