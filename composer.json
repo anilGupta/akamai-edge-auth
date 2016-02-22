@@ -1,7 +1,7 @@
 {
     "name": "anil-gupta/akamai",
     "description": "this is akamai library to generate edge token",
-    "type": "akamai library",
+    "type": "akamai-library",
     "autoload": {
         "psr-4": {
             "Akamai\\": "lib/Akamai"
