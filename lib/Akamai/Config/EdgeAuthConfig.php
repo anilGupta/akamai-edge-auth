@@ -80,7 +80,7 @@ class EdgeAuthConfig {
         if ( is_numeric($window) && $window > 0 ) {
             $this->window = 0+$window; // faster then intval
         } else {
-            throw new ParamaterException("window input invalid");
+            throw new ParameterException("window input invalid");
         }
     }
     public function get_window() {return $this->window;}
